@@ -48,11 +48,13 @@
     padding: 0px;
 }
 
-.list-item, .title {
+.list-item,
+.title {
     list-style: none;
 }
 
-.input, .btn {
+.input,
+.btn {
     outline: none;
 }
 
@@ -71,7 +73,8 @@
 }
 
 /* Heading */
-.title, .new-task {
+.title,
+.new-task {
     color: #333;
     font-weight: 700;
     font-size: 15px;
